@@ -5,6 +5,7 @@
     <h2 class="font-semibold text-xl text-gray-800 leading-tight">
       {{ __('Tweet Index') }}
     </h2>
+    <h2>デプロイ後変更して見たやーつ</h2>
   </x-slot>
 
   <div class="py-12">
